@@ -1,0 +1,64 @@
+    body {
+     background-color: rgb(20, 20, 20);
+     color : white;
+    }
+    h1, h2, h3, h4 {
+        font-family: 'Lora', sans serif;
+    }
+    h1 {
+        color : white;
+
+        font-weight:180;
+        font-size: 20pt;
+        filter: brightness(0.2)
+    }
+
+    images/background.PNG {}
+
+    h2 { 
+    	color: white;
+        width: 190;
+        text-align: left;
+        line-height: 1
+     }
+    h3 {
+        color: white;
+      font-size: 18pt;
+    
+     
+    }
+
+    h5 {
+        color:white
+        brightness(500%)
+        text-shadow(2)
+        neon grid-auto-flow: ;
+    }
+
+      h4 {color : white;
+
+        font-weight:180;
+        font-size: 20pt;
+        text-align: right;}
+        
+    #p2 {text-align: left;}
+    #p4 {text-align: right;}
+    #p5 {text-align: right;}
+
+
+
+    .film {
+    	width: 80;
+    }
+    .img-circle {
+        border-radius: 10%;
+    }
+
+    div {
+        background: ;
+        border: 2px solid white;
+        margin: 10px;
+    }
+
+
+
